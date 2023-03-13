@@ -1,7 +1,15 @@
-# PricingEngine
+# Calculation, Pricing & Validation Engine
 
 ## Overview
-- It is also sometimes referred to as a `Price Optimization System`.
-- It is a tool set used to determine best prices for their products and services.
+
+### Pricing
+- Sometimes referred to as a `Price Optimization System`.
+- A tool set used to determine best prices for products and services.
 - Below are some characteristic of Pricing
-  - Ability to change based on Market trends
+  - Simple & Range based pricing metrics
+  - Demand and supply of the item
+  - Quality of the product or service
+  - Customer segmentation
+  - Change based on market trends
+  - Request Channel
+  - Coupons
