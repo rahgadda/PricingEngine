@@ -1,6 +1,8 @@
 # Calculation, Pricing & Validation Engine
 
 ## Overview
+- This engine is used to perform complex calculations like Loan EMI calculator, Uber Surge Pricing, validate applications.
+- It is based on Redhat DMN - Kogito engine.
 
 ### Pricing
 - Sometimes referred to as a `Price Optimization System`.
